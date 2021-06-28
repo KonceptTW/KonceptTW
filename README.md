@@ -1,4 +1,10 @@
-### Hi there 👋
+## Just a person who bad at coding.
+
+#### Skills
+* Pug
+* Sass
+* jQuery
+* Bootstrap
 
 <!--
 **KonceptTW/KonceptTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
