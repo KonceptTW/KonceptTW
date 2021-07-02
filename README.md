@@ -1,5 +1,3 @@
-## Just a person who bad at coding.
-
 #### Skills
 * Pug
 * Sass
